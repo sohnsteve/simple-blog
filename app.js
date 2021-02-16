@@ -28,7 +28,7 @@ mongoose.connect(
 
   // cloud db connection:
 // mongoose.connect(
-//   'mongodb+srv://admin-steve:Kxisd213@cluster0.qtssr.mongodb.net/blogDB',
+//   insert URL here,
 //   {useNewUrlParser: true, useUnifiedTopology: true}
 // );
 
